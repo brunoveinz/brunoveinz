@@ -1,71 +1,25 @@
-Bruno Veinz 👋
+Hi, I'm Bruno Veloso (Bruno Veinz) 👋
+Software Engineer | Product Mindset | AI Enthusiast
 
-🚀 Backend Developer | Full-Stack Engineer | Tech Enthusiast
-💻 Technical Skills
-Backend:
+I’m a Software Engineer focused on building scalable backend architectures and human-centric digital products. I enjoy solving complex problems where technology meets real-world physical operations.
 
-Django (Primary Stack)
-Ruby on Rails
-Java
-Redis
-Celery (Background Tasks)
+What I'm doing
+At Condevuelta: I led the architecture of a traceability system that has successfully processed over 1,000,000 reusable containers. I work daily with Django, PostgreSQL, Redis, and Docker to ensure high availability and performance.
+Independent Consulting: In my free time, I help local companies digitize their core processes. My goal isn't just to write code, but to design tools that people actually enjoy using to make their jobs easier.
+AI Research: I'm currently obsessed with RAG (Retrieval-Augmented Generation) and how to bring the power of LLMs to mobile devices using Flutter.
 
-Frontend:
+Tech Stack
+Backend: Python (Django), Node.js (TypeScript), Redis, Ruby on Rails.
+Mobile: Flutter & Dart (Building apps from concept to store).
+Infrastructure: Linux, Docker, AWS, Heroku.
+Data: PostgreSQL, MongoDB, Firebase.
 
-TypeScript
-React
-React Native
-Next.js
+Beyond Coding
+I believe the best engineers are those who can communicate ideas clearly. 
+I’m a student of Computer Engineering at UNAB and a proud UTFSM technician.
+I also create content and manage a technology blog to share what I learn.
 
-DevOps & Database:
-
-Docker
-PostgreSQL
-Relational & Non-Relational Databases
-Message Queues & Background Task Management
-
-🧠 Continuous Learning
-
-Lifelong Learner: Constantly expanding my technical knowledge
-Tech Educator: Sharing programming insights and experiences through:
-
-📝 Personal Technology Blog
-🌐 Active Social Media Presence
-💡 Passionate about knowledge sharing
-
-
-
-📊 Professional Experience
-
-Backend Developer | 4+ Years of Experience
-Specialized in building scalable and efficient web applications
-Expertise in Python/Django ecosystem with full-stack capabilities
-Startup Experience:
-
-Developed applications from scratch
-Implemented complex background task processing
-Designed scalable system architectures using Redis and Celery
-
-
-
-🌱 Currently Learning
-
-Advanced system design
-Microservices architecture
-Performance optimization techniques
-Distributed task processing
-
-🎓 Education
-
-Higher Technical Degree in Computer Science
-
-Advanced technical training in information technology
-Solid academic foundation in software development
-
-
-
-📫 Connect with Me
-
-Blog: https://medium.com/@bveinz
-LinkedIn: https://www.linkedin.com/in/bruno-veloso-033892220/
+Let's connect
+LinkedIn: linkedin.com/in/bruno-veloso 
+Blog: medium.com/@bveinz
 Email: velosobruno61@gmail.com
