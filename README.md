@@ -1,4 +1,5 @@
-Hi, I'm Bruno Veloso (Bruno Veinz) 👋
+Hi, I'm Bruno Veloso 
+
 Software Engineer | Product Mindset | AI Enthusiast
 
 I’m a Software Engineer focused on building scalable backend architectures and human-centric digital products. I enjoy solving complex problems where technology meets real-world physical operations.
