@@ -22,5 +22,7 @@ I also create content and manage a technology blog to share what I learn.
 
 Let's connect
 LinkedIn: linkedin.com/in/bruno-veloso 
+
 Blog: medium.com/@bveinz
+
 Email: velosobruno61@gmail.com
